@@ -77,7 +77,7 @@ os3m_sheet/
 
 ## System Requirements
 Operating System: Windows, Linux, or macOS.
-Software: LibreOffice 7.0 or later.
+Software: LibreOffice 25 or later.
 Python: Python 3 embedded within LibreOffice (usually included).
 
 ### Backend Server
@@ -100,7 +100,7 @@ pip install -r requirements.txt
 
 ### LibreOffice Setup
 To install the extension:
-1.  Download the os3msheet.oxt extension file files from installables folder or clone the repo.
+1.  Download the os3msheet.oxt extension file from installables folder or clone the repo.
 2.  Open LibreOffice.
 2.  Go to **Tools** > **Extensions**.
 3.  Click **Add**, locate and select the `os3msheet.oxt` file, and restart LibreOffice.
